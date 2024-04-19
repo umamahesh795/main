@@ -1,0 +1,11 @@
+{
+  "subjectArea" : {
+    "name" : "CPQSA",
+    "sourceBusinessModel" : "businessModel:BMM",
+    "tableOrder" : [ {
+      "name" : "presentationTable:CPQSA.VW_CPQ_F"
+    }, {
+      "name" : "presentationTable:CPQSA.Property"
+    } ]
+  }
+}

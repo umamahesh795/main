@@ -1,0 +1,273 @@
+{
+  "presentationTable" : {
+    "name" : "Property",
+    "presentationColumns" : [ {
+      "name" : "ROW_WID",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ROW_WID"
+    }, {
+      "name" : "PROPERTY_SRC_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PROPERTY_SRC_KEY"
+    }, {
+      "name" : "LIVE_FLAG",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LIVE_FLAG"
+    }, {
+      "name" : "LEAF_LEVEL",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LEAF_LEVEL"
+    }, {
+      "name" : "SUITE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SUITE"
+    }, {
+      "name" : "SUITE_TYPE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SUITE_TYPE"
+    }, {
+      "name" : "BUILDING",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.BUILDING"
+    }, {
+      "name" : "FLOOR",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.FLOOR"
+    }, {
+      "name" : "FLOOR_SRC_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.FLOOR_SRC_KEY"
+    }, {
+      "name" : "SUITE_SRC_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SUITE_SRC_KEY"
+    }, {
+      "name" : "BUILDING_SRC_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.BUILDING_SRC_KEY"
+    }, {
+      "name" : "PROPERTY_TYPE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PROPERTY_TYPE"
+    }, {
+      "name" : "PROPERTY_CODE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PROPERTY_CODE"
+    }, {
+      "name" : "PROPERTY_NAME",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PROPERTY_NAME"
+    }, {
+      "name" : "ADDRESS1",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ADDRESS1"
+    }, {
+      "name" : "ADDRESS2",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ADDRESS2"
+    }, {
+      "name" : "CITY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.CITY"
+    }, {
+      "name" : "STATE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.STATE"
+    }, {
+      "name" : "COUNTRY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.COUNTRY"
+    }, {
+      "name" : "ZIP_POSTAL_CODE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ZIP_POSTAL_CODE"
+    }, {
+      "name" : "ACQUIRED_DATE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ACQUIRED_DATE"
+    }, {
+      "name" : "LEGAL_ENTITY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LEGAL_ENTITY"
+    }, {
+      "name" : "LONGITUDE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LONGITUDE"
+    }, {
+      "name" : "LATITUDE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LATITUDE"
+    }, {
+      "name" : "SAME_STORE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SAME_STORE"
+    }, {
+      "name" : "DOMESTIC_INTRL",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.DOMESTIC_INTRL"
+    }, {
+      "name" : "STABILIZATION_DATE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.STABILIZATION_DATE"
+    }, {
+      "name" : "STABILIZED_CURRENT_YEAR",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.STABILIZED_CURRENT_YEAR"
+    }, {
+      "name" : "STABILIZED_NEXT_YEAR",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.STABILIZED_NEXT_YEAR"
+    }, {
+      "name" : "DISPOSITION_DATE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.DISPOSITION_DATE"
+    }, {
+      "name" : "GLOBAL_MARKET",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.GLOBAL_MARKET"
+    }, {
+      "name" : "MARKET",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.MARKET"
+    }, {
+      "name" : "REGION",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.REGION"
+    }, {
+      "name" : "OWNERSHIP_TYPE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.OWNERSHIP_TYPE"
+    }, {
+      "name" : "LEASED_OWNED",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LEASED_OWNED"
+    }, {
+      "name" : "SOURCE_CURRENCY_PROPERTY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SOURCE_CURRENCY_PROPERTY"
+    }, {
+      "name" : "HRIS_DIVISION",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.HRIS_DIVISION"
+    }, {
+      "name" : "ELT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ELT"
+    }, {
+      "name" : "DIVISION",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.DIVISION"
+    }, {
+      "name" : "ENTITY_TYPE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ENTITY_TYPE"
+    }, {
+      "name" : "COUNTRY_CODE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.COUNTRY_CODE"
+    }, {
+      "name" : "OWNERSHIP_PERCENT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.OWNERSHIP_PERCENT"
+    }, {
+      "name" : "PORTFOLIO_OWNERSHIP_PERCENTAGE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PORTFOLIO_OWNERSHIP_PERCENTAGE"
+    }, {
+      "name" : "LINE_OF_BUSINESS",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LINE_OF_BUSINESS"
+    }, {
+      "name" : "PROPERTY_MANAGER",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PROPERTY_MANAGER"
+    }, {
+      "name" : "DATA_CENTER_MANAGER",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.DATA_CENTER_MANAGER"
+    }, {
+      "name" : "EXTERNALLY_REPORTED",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.EXTERNALLY_REPORTED"
+    }, {
+      "name" : "REGIONAL_MANAGER",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.REGIONAL_MANAGER"
+    }, {
+      "name" : "ENTITY_PARENT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ENTITY_PARENT"
+    }, {
+      "name" : "CAMPUS",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.CAMPUS"
+    }, {
+      "name" : "DIRECTOR",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.DIRECTOR"
+    }, {
+      "name" : "REAL_ESTATE_MANAGER",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.REAL_ESTATE_MANAGER"
+    }, {
+      "name" : "ASSISTANT_REM",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ASSISTANT_REM"
+    }, {
+      "name" : "PROPERTY_ASSISTANT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PROPERTY_ASSISTANT"
+    }, {
+      "name" : "SITE_CODE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SITE_CODE"
+    }, {
+      "name" : "FORMALLY_KNOWN_AS_SITE_CODE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.FORMALLY_KNOWN_AS_SITE_CODE"
+    }, {
+      "name" : "ASSET_MANAGER",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ASSET_MANAGER"
+    }, {
+      "name" : "SAP_WAREHOUSE_CODE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SAP_WAREHOUSE_CODE"
+    }, {
+      "name" : "GEOGRAPHIC_DIVISION",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.GEOGRAPHIC_DIVISION"
+    }, {
+      "name" : "LEGAL_ENTITY_NAME",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LEGAL_ENTITY_NAME"
+    }, {
+      "name" : "REPORTED_REGION",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.REPORTED_REGION"
+    }, {
+      "name" : "REPORTED_MARKET",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.REPORTED_MARKET"
+    }, {
+      "name" : "LOCKED",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LOCKED"
+    }, {
+      "name" : "LOCKED_TIMESTAMP",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LOCKED_TIMESTAMP"
+    }, {
+      "name" : "SNAPSHOT_DATE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SNAPSHOT_DATE"
+    }, {
+      "name" : "CREATED_ON_DT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.CREATED_ON_DT"
+    }, {
+      "name" : "CHANGED_ON_DT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.CHANGED_ON_DT"
+    }, {
+      "name" : "ETL_UPDATE_DT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ETL_UPDATE_DT"
+    }, {
+      "name" : "ETL_INSERT_DT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ETL_INSERT_DT"
+    }, {
+      "name" : "ETL_PROC_WID",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ETL_PROC_WID"
+    }, {
+      "name" : "DATASOURCE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.DATASOURCE"
+    }, {
+      "name" : "UNIT_TYPE_SRC_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.UNIT_TYPE_SRC_KEY"
+    }, {
+      "name" : "UNIT_SRC_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.UNIT_SRC_KEY"
+    }, {
+      "name" : "UNIT_TYPE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.UNIT_TYPE"
+    }, {
+      "name" : "UNIT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.UNIT"
+    }, {
+      "name" : "UNIT_DESC",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.UNIT_DESC"
+    }, {
+      "name" : "UNIT_STATUS",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.UNIT_STATUS"
+    }, {
+      "name" : "MASTER_SITE_CODE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.MASTER_SITE_CODE"
+    }, {
+      "name" : "LEGACY_SRC_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LEGACY_SRC_KEY"
+    }, {
+      "name" : "SNAPSHOT_PERIOD",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.SNAPSHOT_PERIOD"
+    }, {
+      "name" : "ADJUSTMENT_COMMENT",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.ADJUSTMENT_COMMENT"
+    }, {
+      "name" : "UPDATED_BY",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.UPDATED_BY"
+    }, {
+      "name" : "METRO",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.METRO"
+    }, {
+      "name" : "GOLDEN_SUITE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.GOLDEN_SUITE"
+    }, {
+      "name" : "STANDALONE_CAMPUS",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.STANDALONE_CAMPUS"
+    }, {
+      "name" : "LEASING_STATUS",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.LEASING_STATUS"
+    }, {
+      "name" : "CAGE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.CAGE"
+    }, {
+      "name" : "JOINT_VENTURE",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.JOINT_VENTURE"
+    }, {
+      "name" : "PARTNER",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Property.PARTNER"
+    } ]
+  }
+}

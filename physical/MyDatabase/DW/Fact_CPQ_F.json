@@ -1,0 +1,7 @@
+{
+  "physicalTable" : {
+    "name" : "Fact_CPQ_F",
+    "sourceTable" : "physicalTable:MyDatabase.DW.VW_CPQ_F",
+    "overrideSourceCacheSetting" : false
+  }
+}
