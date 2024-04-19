@@ -1,6 +1,6 @@
 {
   "logicalTable" : {
-    "name" : "VW_CPQ_F",
+    "name" : "Fact - CPQ",
     "type" : "FACT",
     "logicalColumns" : [ {
       "name" : "CUSTOMER_WID",
