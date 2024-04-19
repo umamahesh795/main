@@ -62,7 +62,7 @@
       "name" : "ZIP_POSTAL_CODE",
       "sourceLogicalColumn" : "logicalColumn:BMM.Property.ZIP_POSTAL_CODE"
     }, {
-      "name" : "ACQUIRED_DATE",
+      "name" : "ACQUIRED DATE",
       "sourceLogicalColumn" : "logicalColumn:BMM.Property.ACQUIRED_DATE"
     }, {
       "name" : "LEGAL_ENTITY",
