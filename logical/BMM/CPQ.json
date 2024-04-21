@@ -1,6 +1,6 @@
 {
   "logicalTable" : {
-    "name" : "Fact - CPQ",
+    "name" : "CPQ",
     "type" : "FACT",
     "logicalColumns" : [ {
       "name" : "CUSTOMER_WID",
@@ -11405,6 +11405,7 @@
       "tableMapping" : {
         "tables" : [ "physicalTable:MyDatabase.DW.VW_CPQ_F" ]
       },
+      "dataGranularity" : [ "logicalLevel:BMM.Property.Detail" ],
       "combineWithOtherFragments" : false,
       "enableFragmentSelection" : false,
       "distinctValues" : false

@@ -15,7 +15,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ROW_WID" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PROPERTY_SRC_KEY",
       "dataType" : "VARCHAR",
@@ -29,7 +30,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_SRC_KEY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LIVE_FLAG",
       "dataType" : "NUMERIC",
@@ -43,7 +45,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LIVE_FLAG" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LEAF_LEVEL",
       "dataType" : "VARCHAR",
@@ -57,7 +60,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEAF_LEVEL" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SUITE",
       "dataType" : "VARCHAR",
@@ -71,7 +75,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SUITE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SUITE_TYPE",
       "dataType" : "VARCHAR",
@@ -85,7 +90,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SUITE_TYPE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "BUILDING",
       "dataType" : "VARCHAR",
@@ -99,7 +105,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.BUILDING" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "FLOOR",
       "dataType" : "VARCHAR",
@@ -113,7 +120,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.FLOOR" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "FLOOR_SRC_KEY",
       "dataType" : "VARCHAR",
@@ -127,7 +135,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.FLOOR_SRC_KEY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SUITE_SRC_KEY",
       "dataType" : "VARCHAR",
@@ -141,7 +150,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SUITE_SRC_KEY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "BUILDING_SRC_KEY",
       "dataType" : "VARCHAR",
@@ -155,7 +165,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.BUILDING_SRC_KEY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PROPERTY_TYPE",
       "dataType" : "VARCHAR",
@@ -169,7 +180,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_TYPE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PROPERTY_CODE",
       "dataType" : "VARCHAR",
@@ -183,7 +195,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_CODE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PROPERTY_NAME",
       "dataType" : "VARCHAR",
@@ -197,7 +210,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_NAME" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ADDRESS1",
       "dataType" : "VARCHAR",
@@ -211,7 +225,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ADDRESS1" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ADDRESS2",
       "dataType" : "VARCHAR",
@@ -225,7 +240,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ADDRESS2" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "CITY",
       "dataType" : "VARCHAR",
@@ -239,7 +255,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CITY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "STATE",
       "dataType" : "VARCHAR",
@@ -253,7 +270,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STATE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "COUNTRY",
       "dataType" : "VARCHAR",
@@ -267,7 +285,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.COUNTRY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ZIP_POSTAL_CODE",
       "dataType" : "VARCHAR",
@@ -281,7 +300,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ZIP_POSTAL_CODE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ACQUIRED_DATE",
       "dataType" : "DATETIME",
@@ -295,7 +315,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ACQUIRED_DATE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LEGAL_ENTITY",
       "dataType" : "VARCHAR",
@@ -309,7 +330,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEGAL_ENTITY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LONGITUDE",
       "dataType" : "NUMERIC",
@@ -323,7 +345,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LONGITUDE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LATITUDE",
       "dataType" : "NUMERIC",
@@ -337,7 +360,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LATITUDE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SAME_STORE",
       "dataType" : "VARCHAR",
@@ -351,7 +375,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SAME_STORE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "DOMESTIC_INTRL",
       "dataType" : "VARCHAR",
@@ -365,7 +390,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DOMESTIC_INTRL" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "STABILIZATION_DATE",
       "dataType" : "DATETIME",
@@ -379,7 +405,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STABILIZATION_DATE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "STABILIZED_CURRENT_YEAR",
       "dataType" : "VARCHAR",
@@ -393,7 +420,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STABILIZED_CURRENT_YEAR" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "STABILIZED_NEXT_YEAR",
       "dataType" : "VARCHAR",
@@ -407,7 +435,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STABILIZED_NEXT_YEAR" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "DISPOSITION_DATE",
       "dataType" : "DATETIME",
@@ -421,7 +450,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DISPOSITION_DATE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "GLOBAL_MARKET",
       "dataType" : "VARCHAR",
@@ -435,7 +465,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.GLOBAL_MARKET" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "MARKET",
       "dataType" : "VARCHAR",
@@ -449,7 +480,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.MARKET" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "REGION",
       "dataType" : "VARCHAR",
@@ -463,7 +495,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REGION" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "OWNERSHIP_TYPE",
       "dataType" : "VARCHAR",
@@ -477,7 +510,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.OWNERSHIP_TYPE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LEASED_OWNED",
       "dataType" : "VARCHAR",
@@ -491,7 +525,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEASED_OWNED" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SOURCE_CURRENCY_PROPERTY",
       "dataType" : "VARCHAR",
@@ -505,7 +540,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SOURCE_CURRENCY_PROPERTY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "HRIS_DIVISION",
       "dataType" : "VARCHAR",
@@ -519,7 +555,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.HRIS_DIVISION" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ELT",
       "dataType" : "VARCHAR",
@@ -533,7 +570,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ELT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "DIVISION",
       "dataType" : "VARCHAR",
@@ -547,7 +585,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DIVISION" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ENTITY_TYPE",
       "dataType" : "VARCHAR",
@@ -561,7 +600,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ENTITY_TYPE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "COUNTRY_CODE",
       "dataType" : "VARCHAR",
@@ -575,7 +615,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.COUNTRY_CODE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "OWNERSHIP_PERCENT",
       "dataType" : "VARCHAR",
@@ -589,7 +630,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.OWNERSHIP_PERCENT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PORTFOLIO_OWNERSHIP_PERCENTAGE",
       "dataType" : "NUMERIC",
@@ -603,7 +645,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PORTFOLIO_OWNERSHIP_PERCENTAGE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LINE_OF_BUSINESS",
       "dataType" : "VARCHAR",
@@ -617,7 +660,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LINE_OF_BUSINESS" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PROPERTY_MANAGER",
       "dataType" : "VARCHAR",
@@ -631,7 +675,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_MANAGER" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "DATA_CENTER_MANAGER",
       "dataType" : "VARCHAR",
@@ -645,7 +690,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DATA_CENTER_MANAGER" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "EXTERNALLY_REPORTED",
       "dataType" : "VARCHAR",
@@ -659,7 +705,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.EXTERNALLY_REPORTED" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "REGIONAL_MANAGER",
       "dataType" : "VARCHAR",
@@ -673,7 +720,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REGIONAL_MANAGER" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ENTITY_PARENT",
       "dataType" : "VARCHAR",
@@ -687,7 +735,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ENTITY_PARENT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "CAMPUS",
       "dataType" : "VARCHAR",
@@ -701,7 +750,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CAMPUS" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "DIRECTOR",
       "dataType" : "VARCHAR",
@@ -715,7 +765,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DIRECTOR" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "REAL_ESTATE_MANAGER",
       "dataType" : "VARCHAR",
@@ -729,7 +780,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REAL_ESTATE_MANAGER" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ASSISTANT_REM",
       "dataType" : "VARCHAR",
@@ -743,7 +795,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ASSISTANT_REM" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PROPERTY_ASSISTANT",
       "dataType" : "VARCHAR",
@@ -757,7 +810,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_ASSISTANT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SITE_CODE",
       "dataType" : "VARCHAR",
@@ -771,7 +825,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SITE_CODE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "FORMALLY_KNOWN_AS_SITE_CODE",
       "dataType" : "VARCHAR",
@@ -785,7 +840,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.FORMALLY_KNOWN_AS_SITE_CODE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ASSET_MANAGER",
       "dataType" : "VARCHAR",
@@ -799,7 +855,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ASSET_MANAGER" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SAP_WAREHOUSE_CODE",
       "dataType" : "VARCHAR",
@@ -813,7 +870,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SAP_WAREHOUSE_CODE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "GEOGRAPHIC_DIVISION",
       "dataType" : "VARCHAR",
@@ -827,7 +885,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.GEOGRAPHIC_DIVISION" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LEGAL_ENTITY_NAME",
       "dataType" : "VARCHAR",
@@ -841,7 +900,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEGAL_ENTITY_NAME" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "REPORTED_REGION",
       "dataType" : "VARCHAR",
@@ -855,7 +915,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REPORTED_REGION" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "REPORTED_MARKET",
       "dataType" : "VARCHAR",
@@ -869,7 +930,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REPORTED_MARKET" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LOCKED",
       "dataType" : "CHAR",
@@ -883,7 +945,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LOCKED" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LOCKED_TIMESTAMP",
       "dataType" : "DATETIME",
@@ -897,7 +960,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LOCKED_TIMESTAMP" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SNAPSHOT_DATE",
       "dataType" : "DATETIME",
@@ -911,7 +975,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SNAPSHOT_DATE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "CREATED_ON_DT",
       "dataType" : "DATETIME",
@@ -925,7 +990,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CREATED_ON_DT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "CHANGED_ON_DT",
       "dataType" : "DATETIME",
@@ -939,7 +1005,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CHANGED_ON_DT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ETL_UPDATE_DT",
       "dataType" : "DATETIME",
@@ -953,7 +1020,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ETL_UPDATE_DT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ETL_INSERT_DT",
       "dataType" : "DATETIME",
@@ -967,7 +1035,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ETL_INSERT_DT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ETL_PROC_WID",
       "dataType" : "NUMERIC",
@@ -981,7 +1050,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ETL_PROC_WID" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "DATASOURCE",
       "dataType" : "VARCHAR",
@@ -995,7 +1065,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DATASOURCE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "UNIT_TYPE_SRC_KEY",
       "dataType" : "VARCHAR",
@@ -1009,7 +1080,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_TYPE_SRC_KEY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "UNIT_SRC_KEY",
       "dataType" : "VARCHAR",
@@ -1023,7 +1095,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_SRC_KEY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "UNIT_TYPE",
       "dataType" : "VARCHAR",
@@ -1037,7 +1110,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_TYPE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "UNIT",
       "dataType" : "VARCHAR",
@@ -1051,7 +1125,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "UNIT_DESC",
       "dataType" : "VARCHAR",
@@ -1065,7 +1140,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_DESC" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "UNIT_STATUS",
       "dataType" : "VARCHAR",
@@ -1079,7 +1155,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_STATUS" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "MASTER_SITE_CODE",
       "dataType" : "VARCHAR",
@@ -1093,7 +1170,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.MASTER_SITE_CODE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LEGACY_SRC_KEY",
       "dataType" : "VARCHAR",
@@ -1107,7 +1185,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEGACY_SRC_KEY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "SNAPSHOT_PERIOD",
       "dataType" : "VARCHAR",
@@ -1121,7 +1200,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SNAPSHOT_PERIOD" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "ADJUSTMENT_COMMENT",
       "dataType" : "VARCHAR",
@@ -1135,7 +1215,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ADJUSTMENT_COMMENT" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "UPDATED_BY",
       "dataType" : "VARCHAR",
@@ -1149,7 +1230,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UPDATED_BY" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "METRO",
       "dataType" : "VARCHAR",
@@ -1163,7 +1245,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.METRO" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "GOLDEN_SUITE",
       "dataType" : "VARCHAR",
@@ -1177,7 +1260,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.GOLDEN_SUITE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "STANDALONE_CAMPUS",
       "dataType" : "VARCHAR",
@@ -1191,7 +1275,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STANDALONE_CAMPUS" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "LEASING_STATUS",
       "dataType" : "VARCHAR",
@@ -1205,7 +1290,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEASING_STATUS" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "CAGE",
       "dataType" : "VARCHAR",
@@ -1219,7 +1305,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CAGE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "JOINT_VENTURE",
       "dataType" : "VARCHAR",
@@ -1233,7 +1320,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.JOINT_VENTURE" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     }, {
       "name" : "PARTNER",
       "dataType" : "VARCHAR",
@@ -1247,7 +1335,8 @@
             "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PARTNER" ]
           }
         } ]
-      }
+      },
+      "logicalLevel" : "Detail"
     } ],
     "logicalTableSources" : [ {
       "name" : "Dim_Property_D",
@@ -1258,6 +1347,29 @@
       "combineWithOtherFragments" : false,
       "enableFragmentSelection" : false,
       "distinctValues" : false
-    } ]
+    } ],
+    "hierarchyType" : "LEVEL_BASED",
+    "levelBasedHierarchy" : {
+      "defaultRootLevel" : "Total",
+      "ragged" : false,
+      "skipped" : false,
+      "logicalLevels" : [ {
+        "name" : "Total",
+        "numberOfElements" : 1,
+        "grandTotalLevel" : true,
+        "disableAggregateToHigherLevel" : false
+      }, {
+        "name" : "Detail",
+        "numberOfElements" : 1,
+        "grandTotalLevel" : false,
+        "disableAggregateToHigherLevel" : false,
+        "primaryKey" : [ "ROW_WID" ],
+        "displayKey" : "ROW_WID"
+      } ],
+      "logicalHierarchies" : [ {
+        "name" : "H1",
+        "levels" : [ "Total", "Detail" ]
+      } ]
+    }
   }
 }
