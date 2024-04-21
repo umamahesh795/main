@@ -2,7 +2,7 @@
   "presentationTable" : {
     "name" : "VW_CPQ_F",
     "presentationColumns" : [ {
-      "name" : "CUSTOMER_WID",
+      "name" : "CUSTOMER WID",
       "sourceLogicalColumn" : "logicalColumn:BMM.Fact - CPQ.CUSTOMER_WID"
     }, {
       "name" : "OPPORTUNITY_WID",
