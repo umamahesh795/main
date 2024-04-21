@@ -47,7 +47,7 @@
       "name" : "ADDRESS1",
       "sourceLogicalColumn" : "logicalColumn:BMM.Property.ADDRESS1"
     }, {
-      "name" : "ADDRESS2",
+      "name" : "ADDRESS_2",
       "sourceLogicalColumn" : "logicalColumn:BMM.Property.ADDRESS2"
     }, {
       "name" : "CITY",
