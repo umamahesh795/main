@@ -59,7 +59,7 @@
       "name" : "Created On Dt",
       "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Created On Dt"
     }, {
-      "name" : "Changed On Dt",
+      "name" : "Changed On Date",
       "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Changed On Dt"
     }, {
       "name" : "Etl Update Dt",
