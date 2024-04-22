@@ -1,6 +1,6 @@
 {
   "physicalTable" : {
-    "name" : "Dim_Property_D",
+    "name" : "Dim - Property",
     "sourceTable" : "physicalTable:MyDatabase.DW.VW_PROPERTY_D",
     "additionalKeys" : [ [ "ROW_WID" ] ],
     "overrideSourceCacheSetting" : false,
@@ -8,7 +8,7 @@
       "rightTable" : "physicalTable:MyDatabase.DW.Fact_CPQ_F",
       "useJoinExpression" : false,
       "joinConditions" : [ {
-        "leftColumn" : "physicalColumn:MyDatabase.DW.Dim_Property_D.ROW_WID",
+        "leftColumn" : "physicalColumn:MyDatabase.DW.Dim - Property.ROW_WID",
         "rightColumn" : "physicalColumn:MyDatabase.DW.Fact_CPQ_F.PROPERTY_WID"
       } ],
       "joinType" : "INNER",

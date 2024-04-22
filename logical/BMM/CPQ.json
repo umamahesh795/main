@@ -11415,6 +11415,11 @@
       "joinType" : "INNER",
       "cardinality" : "MANY_TO_ONE",
       "drivingTable" : "None"
+    }, {
+      "rightTable" : "logicalTable:BMM.Prodcut",
+      "joinType" : "INNER",
+      "cardinality" : "MANY_TO_ONE",
+      "drivingTable" : "None"
     } ]
   }
 }

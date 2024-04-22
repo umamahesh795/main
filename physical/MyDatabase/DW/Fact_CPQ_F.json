@@ -2,6 +2,16 @@
   "physicalTable" : {
     "name" : "Fact_CPQ_F",
     "sourceTable" : "physicalTable:MyDatabase.DW.VW_CPQ_F",
-    "overrideSourceCacheSetting" : false
+    "overrideSourceCacheSetting" : false,
+    "joins" : [ {
+      "rightTable" : "physicalTable:MyDatabase.DW.Dim - Prodcut",
+      "useJoinExpression" : false,
+      "joinConditions" : [ {
+        "leftColumn" : "physicalColumn:MyDatabase.DW.Fact_CPQ_F.PRODUCT_WID",
+        "rightColumn" : "physicalColumn:MyDatabase.DW.Dim - Prodcut.ROW_WID"
+      } ],
+      "joinType" : "INNER",
+      "cardinality" : "MANY_TO_ONE"
+    } ]
   }
 }

@@ -1,0 +1,7 @@
+{
+  "physicalTable" : {
+    "name" : "Dim - Prodcut",
+    "sourceTable" : "physicalTable:MyDatabase.DW.VW_PRODUCT_D",
+    "overrideSourceCacheSetting" : false
+  }
+}

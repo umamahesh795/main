@@ -12,7 +12,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ROW_WID" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ROW_WID" ]
           }
         } ]
       },
@@ -27,7 +27,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_SRC_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PROPERTY_SRC_KEY" ]
           }
         } ]
       },
@@ -42,7 +42,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LIVE_FLAG" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LIVE_FLAG" ]
           }
         } ]
       },
@@ -57,7 +57,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEAF_LEVEL" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LEAF_LEVEL" ]
           }
         } ]
       },
@@ -72,7 +72,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SUITE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SUITE" ]
           }
         } ]
       },
@@ -87,7 +87,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SUITE_TYPE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SUITE_TYPE" ]
           }
         } ]
       },
@@ -102,7 +102,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.BUILDING" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.BUILDING" ]
           }
         } ]
       },
@@ -117,7 +117,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.FLOOR" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.FLOOR" ]
           }
         } ]
       },
@@ -132,7 +132,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.FLOOR_SRC_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.FLOOR_SRC_KEY" ]
           }
         } ]
       },
@@ -147,7 +147,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SUITE_SRC_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SUITE_SRC_KEY" ]
           }
         } ]
       },
@@ -162,7 +162,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.BUILDING_SRC_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.BUILDING_SRC_KEY" ]
           }
         } ]
       },
@@ -177,7 +177,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_TYPE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PROPERTY_TYPE" ]
           }
         } ]
       },
@@ -192,7 +192,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_CODE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PROPERTY_CODE" ]
           }
         } ]
       },
@@ -207,7 +207,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_NAME" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PROPERTY_NAME" ]
           }
         } ]
       },
@@ -222,7 +222,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ADDRESS1" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ADDRESS1" ]
           }
         } ]
       },
@@ -237,7 +237,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ADDRESS2" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ADDRESS2" ]
           }
         } ]
       },
@@ -252,7 +252,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CITY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.CITY" ]
           }
         } ]
       },
@@ -267,7 +267,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STATE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.STATE" ]
           }
         } ]
       },
@@ -282,7 +282,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.COUNTRY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.COUNTRY" ]
           }
         } ]
       },
@@ -297,7 +297,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ZIP_POSTAL_CODE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ZIP_POSTAL_CODE" ]
           }
         } ]
       },
@@ -312,7 +312,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ACQUIRED_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ACQUIRED_DATE" ]
           }
         } ]
       },
@@ -327,7 +327,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEGAL_ENTITY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LEGAL_ENTITY" ]
           }
         } ]
       },
@@ -342,7 +342,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LONGITUDE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LONGITUDE" ]
           }
         } ]
       },
@@ -357,7 +357,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LATITUDE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LATITUDE" ]
           }
         } ]
       },
@@ -372,7 +372,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SAME_STORE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SAME_STORE" ]
           }
         } ]
       },
@@ -387,7 +387,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DOMESTIC_INTRL" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.DOMESTIC_INTRL" ]
           }
         } ]
       },
@@ -402,7 +402,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STABILIZATION_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.STABILIZATION_DATE" ]
           }
         } ]
       },
@@ -417,7 +417,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STABILIZED_CURRENT_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.STABILIZED_CURRENT_YEAR" ]
           }
         } ]
       },
@@ -432,7 +432,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STABILIZED_NEXT_YEAR" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.STABILIZED_NEXT_YEAR" ]
           }
         } ]
       },
@@ -447,7 +447,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DISPOSITION_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.DISPOSITION_DATE" ]
           }
         } ]
       },
@@ -462,7 +462,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.GLOBAL_MARKET" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.GLOBAL_MARKET" ]
           }
         } ]
       },
@@ -477,7 +477,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.MARKET" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.MARKET" ]
           }
         } ]
       },
@@ -492,7 +492,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REGION" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.REGION" ]
           }
         } ]
       },
@@ -507,7 +507,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.OWNERSHIP_TYPE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.OWNERSHIP_TYPE" ]
           }
         } ]
       },
@@ -522,7 +522,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEASED_OWNED" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LEASED_OWNED" ]
           }
         } ]
       },
@@ -537,7 +537,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SOURCE_CURRENCY_PROPERTY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SOURCE_CURRENCY_PROPERTY" ]
           }
         } ]
       },
@@ -552,7 +552,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.HRIS_DIVISION" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.HRIS_DIVISION" ]
           }
         } ]
       },
@@ -567,7 +567,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ELT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ELT" ]
           }
         } ]
       },
@@ -582,7 +582,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DIVISION" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.DIVISION" ]
           }
         } ]
       },
@@ -597,7 +597,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ENTITY_TYPE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ENTITY_TYPE" ]
           }
         } ]
       },
@@ -612,7 +612,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.COUNTRY_CODE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.COUNTRY_CODE" ]
           }
         } ]
       },
@@ -627,7 +627,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.OWNERSHIP_PERCENT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.OWNERSHIP_PERCENT" ]
           }
         } ]
       },
@@ -642,7 +642,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PORTFOLIO_OWNERSHIP_PERCENTAGE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PORTFOLIO_OWNERSHIP_PERCENTAGE" ]
           }
         } ]
       },
@@ -657,7 +657,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LINE_OF_BUSINESS" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LINE_OF_BUSINESS" ]
           }
         } ]
       },
@@ -672,7 +672,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_MANAGER" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PROPERTY_MANAGER" ]
           }
         } ]
       },
@@ -687,7 +687,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DATA_CENTER_MANAGER" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.DATA_CENTER_MANAGER" ]
           }
         } ]
       },
@@ -702,7 +702,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.EXTERNALLY_REPORTED" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.EXTERNALLY_REPORTED" ]
           }
         } ]
       },
@@ -717,7 +717,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REGIONAL_MANAGER" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.REGIONAL_MANAGER" ]
           }
         } ]
       },
@@ -732,7 +732,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ENTITY_PARENT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ENTITY_PARENT" ]
           }
         } ]
       },
@@ -747,7 +747,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CAMPUS" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.CAMPUS" ]
           }
         } ]
       },
@@ -762,7 +762,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DIRECTOR" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.DIRECTOR" ]
           }
         } ]
       },
@@ -777,7 +777,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REAL_ESTATE_MANAGER" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.REAL_ESTATE_MANAGER" ]
           }
         } ]
       },
@@ -792,7 +792,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ASSISTANT_REM" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ASSISTANT_REM" ]
           }
         } ]
       },
@@ -807,7 +807,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PROPERTY_ASSISTANT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PROPERTY_ASSISTANT" ]
           }
         } ]
       },
@@ -822,7 +822,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SITE_CODE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SITE_CODE" ]
           }
         } ]
       },
@@ -837,7 +837,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.FORMALLY_KNOWN_AS_SITE_CODE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.FORMALLY_KNOWN_AS_SITE_CODE" ]
           }
         } ]
       },
@@ -852,7 +852,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ASSET_MANAGER" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ASSET_MANAGER" ]
           }
         } ]
       },
@@ -867,7 +867,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SAP_WAREHOUSE_CODE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SAP_WAREHOUSE_CODE" ]
           }
         } ]
       },
@@ -882,7 +882,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.GEOGRAPHIC_DIVISION" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.GEOGRAPHIC_DIVISION" ]
           }
         } ]
       },
@@ -897,7 +897,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEGAL_ENTITY_NAME" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LEGAL_ENTITY_NAME" ]
           }
         } ]
       },
@@ -912,7 +912,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REPORTED_REGION" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.REPORTED_REGION" ]
           }
         } ]
       },
@@ -927,7 +927,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.REPORTED_MARKET" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.REPORTED_MARKET" ]
           }
         } ]
       },
@@ -942,7 +942,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LOCKED" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LOCKED" ]
           }
         } ]
       },
@@ -957,7 +957,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LOCKED_TIMESTAMP" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LOCKED_TIMESTAMP" ]
           }
         } ]
       },
@@ -972,7 +972,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SNAPSHOT_DATE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SNAPSHOT_DATE" ]
           }
         } ]
       },
@@ -987,7 +987,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CREATED_ON_DT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.CREATED_ON_DT" ]
           }
         } ]
       },
@@ -1002,7 +1002,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CHANGED_ON_DT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.CHANGED_ON_DT" ]
           }
         } ]
       },
@@ -1017,7 +1017,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ETL_UPDATE_DT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ETL_UPDATE_DT" ]
           }
         } ]
       },
@@ -1032,7 +1032,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ETL_INSERT_DT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ETL_INSERT_DT" ]
           }
         } ]
       },
@@ -1047,7 +1047,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ETL_PROC_WID" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ETL_PROC_WID" ]
           }
         } ]
       },
@@ -1062,7 +1062,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.DATASOURCE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.DATASOURCE" ]
           }
         } ]
       },
@@ -1077,7 +1077,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_TYPE_SRC_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.UNIT_TYPE_SRC_KEY" ]
           }
         } ]
       },
@@ -1092,7 +1092,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_SRC_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.UNIT_SRC_KEY" ]
           }
         } ]
       },
@@ -1107,7 +1107,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_TYPE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.UNIT_TYPE" ]
           }
         } ]
       },
@@ -1122,7 +1122,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.UNIT" ]
           }
         } ]
       },
@@ -1137,7 +1137,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_DESC" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.UNIT_DESC" ]
           }
         } ]
       },
@@ -1152,7 +1152,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UNIT_STATUS" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.UNIT_STATUS" ]
           }
         } ]
       },
@@ -1167,7 +1167,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.MASTER_SITE_CODE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.MASTER_SITE_CODE" ]
           }
         } ]
       },
@@ -1182,7 +1182,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEGACY_SRC_KEY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LEGACY_SRC_KEY" ]
           }
         } ]
       },
@@ -1197,7 +1197,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.SNAPSHOT_PERIOD" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.SNAPSHOT_PERIOD" ]
           }
         } ]
       },
@@ -1212,7 +1212,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.ADJUSTMENT_COMMENT" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.ADJUSTMENT_COMMENT" ]
           }
         } ]
       },
@@ -1227,7 +1227,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.UPDATED_BY" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.UPDATED_BY" ]
           }
         } ]
       },
@@ -1242,7 +1242,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.METRO" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.METRO" ]
           }
         } ]
       },
@@ -1257,7 +1257,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.GOLDEN_SUITE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.GOLDEN_SUITE" ]
           }
         } ]
       },
@@ -1272,7 +1272,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.STANDALONE_CAMPUS" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.STANDALONE_CAMPUS" ]
           }
         } ]
       },
@@ -1287,7 +1287,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.LEASING_STATUS" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.LEASING_STATUS" ]
           }
         } ]
       },
@@ -1302,7 +1302,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.CAGE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.CAGE" ]
           }
         } ]
       },
@@ -1317,7 +1317,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.JOINT_VENTURE" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.JOINT_VENTURE" ]
           }
         } ]
       },
@@ -1332,7 +1332,7 @@
           "logicalTableSource" : "Dim_Property_D",
           "physicalExpression" : {
             "expressionTemplate" : "%1",
-            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim_Property_D.PARTNER" ]
+            "expressionObjects" : [ "physicalColumn:MyDatabase.DW.Dim - Property.PARTNER" ]
           }
         } ]
       },
@@ -1342,7 +1342,7 @@
       "name" : "Dim_Property_D",
       "disable" : false,
       "tableMapping" : {
-        "tables" : [ "physicalTable:MyDatabase.DW.Dim_Property_D" ]
+        "tables" : [ "physicalTable:MyDatabase.DW.Dim - Property" ]
       },
       "combineWithOtherFragments" : false,
       "enableFragmentSelection" : false,

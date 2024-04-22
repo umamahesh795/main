@@ -1,0 +1,136 @@
+{
+  "physicalTable" : {
+    "name" : "VW_PRODUCT_D",
+    "sourceType" : "TABLE",
+    "physicalColumns" : [ {
+      "name" : "ROW_WID",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : false
+    }, {
+      "name" : "INVENTORY_ITEM_ID",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "ORGANIZATION_ID",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "INTEGRATION_ID",
+      "dataType" : "VARCHAR",
+      "length" : 81,
+      "nullable" : true
+    }, {
+      "name" : "ITEM_NUMBER",
+      "dataType" : "VARCHAR",
+      "length" : 300,
+      "nullable" : true
+    }, {
+      "name" : "ITEM_DESCRIPTION",
+      "dataType" : "VARCHAR",
+      "length" : 240,
+      "nullable" : true
+    }, {
+      "name" : "ORGANIZATION_CODE",
+      "dataType" : "VARCHAR",
+      "length" : 18,
+      "nullable" : true
+    }, {
+      "name" : "PRODUCT_CATALOG_CATEGORY",
+      "dataType" : "VARCHAR",
+      "length" : 250,
+      "nullable" : true
+    }, {
+      "name" : "TAX_CATALOG_CATEGORY",
+      "dataType" : "VARCHAR",
+      "length" : 250,
+      "nullable" : true
+    }, {
+      "name" : "IL_TAX_CATEGORY",
+      "dataType" : "VARCHAR",
+      "length" : 250,
+      "nullable" : true
+    }, {
+      "name" : "ITEM_TYPE",
+      "dataType" : "VARCHAR",
+      "length" : 30,
+      "nullable" : true
+    }, {
+      "name" : "ITEM_CLASS",
+      "dataType" : "VARCHAR",
+      "length" : 255,
+      "nullable" : true
+    }, {
+      "name" : "LIST_PRICE_PER_UNIT",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "BOM_ITEM_TYPE",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "PRIMARY_UOM_CODE",
+      "dataType" : "VARCHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "INVOICEABLE_ITEM_FLAG",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "INVENTORY_ASSET_FLAG",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "PURCHASING_ITEM_FLAG",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "CREATED_ON_DT",
+      "dataType" : "DATETIME",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "CHANGED_ON_DT",
+      "dataType" : "DATETIME",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "ETL_UPDATE_DT",
+      "dataType" : "DATETIME",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "ETL_INSERT_DT",
+      "dataType" : "DATETIME",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "ETL_PROC_WID",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "DATASOURCE",
+      "dataType" : "VARCHAR",
+      "length" : 255,
+      "nullable" : true
+    }, {
+      "name" : "LINE_OF_BUSINESS",
+      "dataType" : "VARCHAR",
+      "length" : 9,
+      "nullable" : true
+    } ],
+    "caching" : {
+      "enable" : true,
+      "expiryTime" : 0
+    }
+  }
+}

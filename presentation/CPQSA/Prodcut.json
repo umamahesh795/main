@@ -1,0 +1,94 @@
+{
+  "presentationTable" : {
+    "name" : "Prodcut",
+    "presentationColumns" : [ {
+      "name" : "Row Wid",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Row Wid"
+    }, {
+      "name" : "Inventory Item Id",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Inventory Item Id"
+    }, {
+      "name" : "Organization Id",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Organization Id"
+    }, {
+      "name" : "Integration Id",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Integration Id"
+    }, {
+      "name" : "Item Number",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Item Number"
+    }, {
+      "name" : "Item Description",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Item Description"
+    }, {
+      "name" : "Organization Code",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Organization Code"
+    }, {
+      "name" : "Product Catalog Category",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Product Catalog Category"
+    }, {
+      "name" : "Tax Catalog Category",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Tax Catalog Category"
+    }, {
+      "name" : "Il Tax Category",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Il Tax Category"
+    }, {
+      "name" : "Item Type",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Item Type"
+    }, {
+      "name" : "Item Class",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Item Class"
+    }, {
+      "name" : "List Price Per Unit",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.List Price Per Unit"
+    }, {
+      "name" : "Bom Item Type",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Bom Item Type"
+    }, {
+      "name" : "Primary Uom Code",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Primary Uom Code"
+    }, {
+      "name" : "Invoiceable Item Flag",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Invoiceable Item Flag"
+    }, {
+      "name" : "Inventory Asset Flag",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Inventory Asset Flag"
+    }, {
+      "name" : "Purchasing Item Flag",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Purchasing Item Flag"
+    }, {
+      "name" : "Created On Dt",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Created On Dt"
+    }, {
+      "name" : "Changed On Dt",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Changed On Dt"
+    }, {
+      "name" : "Etl Update Dt",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Etl Update Dt"
+    }, {
+      "name" : "Etl Insert Dt",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Etl Insert Dt"
+    }, {
+      "name" : "Etl Proc Wid",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Etl Proc Wid"
+    }, {
+      "name" : "Datasource",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Datasource"
+    }, {
+      "name" : "Line Of Business",
+      "sourceLogicalColumn" : "logicalColumn:BMM.Prodcut.Line Of Business"
+    } ],
+    "hierarchies" : [ {
+      "name" : "H1",
+      "sourceLogicalTable" : "logicalTable:BMM.Prodcut",
+      "levels" : [ {
+        "name" : "Total",
+        "sourceLogicalLevel" : "logicalLevel:BMM.Prodcut.Total"
+      }, {
+        "name" : "Detail",
+        "sourceLogicalLevel" : "logicalLevel:BMM.Prodcut.Detail",
+        "displayColumn" : "presentationColumn:CPQSA.Prodcut.Row Wid"
+      } ]
+    } ],
+    "localization" : { }
+  }
+}

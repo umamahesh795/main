@@ -6,6 +6,8 @@
       "name" : "presentationTable:CPQSA.CPQ"
     }, {
       "name" : "presentationTable:CPQSA.Property"
+    }, {
+      "name" : "presentationTable:CPQSA.Prodcut"
     } ]
   }
 }
