@@ -20,7 +20,7 @@
       "name" : "ID",
       "sourceLogicalColumn" : "logicalColumn:BMM.CPQ.ID"
     }, {
-      "name" : "TRANSACTION_DOCUMENT_ID",
+      "name" : "TRANSACTION DOCUMENT ID",
       "sourceLogicalColumn" : "logicalColumn:BMM.CPQ.TRANSACTION_DOCUMENT_ID"
     }, {
       "name" : "TRANSACTION_DOCUMENT_NUMBER",
